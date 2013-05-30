@@ -1,4 +1,6 @@
-.icon { background-image:url('../img/members_icons.png') }
+.icon { 
+	background-image:url('../img/members_icons.png');
+}
 .icon-wiki { background-position: 0px 0px }
 .icon-profiles { background-position: -72px 0px }
 .icon-events { background-position: -144px 0px }
@@ -24,3 +26,4 @@
 .icon-postgresql {background-position: -144px -288px }
 .icon-network { background-position: -216px -288px }
 .icon-pictures { background-position: -288px -288px }
+.icon-drink { background-position: 0px -360px }

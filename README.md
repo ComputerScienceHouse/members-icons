@@ -2,6 +2,12 @@ CSH Members Portal Icons
 ========================
 A CSS sprite sheet for the CSH member's portal.
 
+Usage
+-----
+Include either of the .css files in your page, as well as the corresponding image. The _72 and _144 refer to the max size in pixels of the sprites. Refer to the example (index.html) to see them in action.
+
+Icons aren't responsive, but they will scale between 24px and 72px/144px (depending on which you chose). Assign the icons their own width and height by adding your own styles to the .icon class, or do your own thing. Make sure the widths and heights match!
+
 Attributions
 ------------
 [Globe](http://thenounproject.com/noun/globe/#icon-No16449) designed by [Tyrus Smalley](http://thenounproject.com/tyrussma) from The Noun Project
@@ -49,3 +55,5 @@ Attributions
 [Picture](http://thenounproject.com/noun/picture/#icon-No541) from The Noun Project
 
 [Energy Drink](http://thenounproject.com/noun/energy-drink/#icon-No11928) designed by [Rohan Gupta](http://thenounproject.com/rohangupta1) from The Noun Project
+
+[Scroll](http://thenounproject.com/noun/scroll/#icon-No1629) designed by [Eduardo Souza](http://thenounproject.com/souzaead) from The Noun Project

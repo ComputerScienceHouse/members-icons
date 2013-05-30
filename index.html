@@ -2,47 +2,82 @@
 <html>
 <head>
 	<title>CSH Members Page Icons</title>
-	<link type="text/css" rel="stylesheet" href="css/members_icons.css"/>
+	<link type="text/css" rel="stylesheet" href="css/members_icons_144.css"/>
 	<style type="text/css">
 		* { font-family: Arial, sans-serif; }
-		td.icon {
-			list-style-type: none;
-			width: 72px;
-			height: 72px;
+		.icon {
+			margin: auto;
+		}
+		td {
+			text-align: center;
+			padding: 5px;
 		}
 	</style>
+	<script type="text/javascript">
+		function changeSize(size) {
+			var icons = document.getElementsByClassName("icon");
+			for (i = 0; i < icons.length; i++) {
+				icons[i].style.width = size + "px";
+				icons[i].style.height = size + "px";
+			}
+		}
+
+		window.addEventListener('load', function() {
+			changeSize(72);
+		}, false);
+	</script>
 </head>
 <body>
 	<div id="wrapper">
 		<h1>CSH Members Portal Icons</h1>
+		<p>They'll even scale between 24px to 144px! Try changing the size:
+			<select id="scale" onchange="changeSize(this.value);">
+				<option value="36">36px</option>
+				<option value="72" selected>72px</option>
+				<option value="144">144px</option>
+			</select>
+		</p>
 		<table>
-			<tr><th>Image</th><th>Class</th></tr>
-			<tr><td class="icon icon-wiki"></td><td>.icon-wiki</td></tr>
-			<tr><td class="icon icon-profiles"></td><td>.icon-profiles</td></tr>
-			<tr><td class="icon icon-events"></td><td>.icon-events</td></tr>
-			<tr><td class="icon icon-floormap"></td><td>.icon-floormap</td></tr>
-			<tr><td class="icon icon-gallery"></td><td>.icon-gallery</td></tr>
-			<tr><td class="icon icon-segfault"></td><td>.icon-segfault</td></tr>
-			<tr><td class="icon icon-quotes"></td><td>.icon-quotes</td></tr>
-			<tr><td class="icon icon-photohunt"></td><td>.icon-photohunt</td></tr>
-			<tr><td class="icon icon-yearbook"></td><td>.icon-yearbook</td></tr>
-			<tr><td class="icon icon-schedule"></td><td>.icon-schedule</td></tr>
-			<tr><td class="icon icon-webnews"></td><td>.icon-webnews</td></tr>
-			<tr><td class="icon icon-webmail"></td><td>.icon-webmail</td></tr>
-			<tr><td class="icon icon-lists"></td><td>.icon-lists</td></tr>
-			<tr><td class="icon icon-evals"></td><td>.icon-evals</td></tr>
-			<tr><td class="icon icon-bookkake"></td><td>.icon-bookkake</td></tr>
-			<tr><td class="icon icon-machines"></td><td>.icon-machines</td></tr>
-			<tr><td class="icon icon-food"></td><td>.icon-food</td></tr>
-			<tr><td class="icon icon-webcomic"></td><td>.icon-webcomic</td></tr>
-			<tr><td class="icon icon-microsoft"></td><td>.icon-microsoft</td></tr>
-			<tr><td class="icon icon-starrs"></td><td>.icon-starrs</td></tr>
-			<tr><td class="icon icon-ldap"></td><td>.icon-ldap</td></tr>
-			<tr><td class="icon icon-mysql"></td><td>.icon-mysql</td></tr>
-			<tr><td class="icon icon-postgresql"></td><td>.icon-postgresql</td></tr>
-			<tr><td class="icon icon-network"></td><td>.icon-network</td></tr>
-			<tr><td class="icon icon-pictures"></td><td>.icon-pictures</td></tr>
-			<tr><td class="icon icon-drink"></td><td>.icon-drink</td></tr>
+			<tr>
+				<td><div class="icon icon-wiki"></div><p>.icon-wiki</p></td>
+				<td><div class="icon icon-profiles"></div><p>.icon-profiles</p></td>
+				<td><div class="icon icon-events"></div><p>.icon-events</p></td>
+				<td><div class="icon icon-floormap"></div><p>.icon-floormap</p></td>
+				<td><div class="icon icon-gallery"></div><p>.icon-gallery</p></td>
+			</tr>
+			<tr>
+				<td><div class="icon icon-segfault"></div><p>.icon-segfault</p></td>
+				<td><div class="icon icon-quotes"></div></p>.icon-quotes</p></td>
+				<td><div class="icon icon-photohunt"></div><p>.icon-photohunt</p></td>
+				<td><div class="icon icon-yearbook"></div><p>.icon-yearbook</p></td>
+				<td><div class="icon icon-schedule"></div><p>.icon-schedule</p></td>
+			</tr>
+			<tr>
+				<td><div class="icon icon-webnews"></div><p>.icon-webnews</p></td>
+				<td><div class="icon icon-webmail"></div></p>.icon-webmail</p></td>
+				<td><div class="icon icon-lists"></div><p>.icon-lists</p></td>
+				<td><div class="icon icon-evals"></div><p>.icon-evals</p></td>
+				<td><div class="icon icon-bookkake"></div><p>.icon-bookkake</p></td>
+			</tr>
+			<tr>
+				<td><div class="icon icon-machines"></div><p>.icon-machines</p></td>
+				<td><div class="icon icon-food"></div></p>.icon-food</p></td>
+				<td><div class="icon icon-webcomic"></div><p>.icon-webcomic</p></td>
+				<td><div class="icon icon-microsoft"></div><p>.icon-microsoft</p></td>
+				<td><div class="icon icon-starrs"></div><p>.icon-starrs</p></td>
+			</tr>
+			<tr>
+				<td><div class="icon icon-ldap"></div><p>.icon-ldap</p></td>
+				<td><div class="icon icon-mysql"></div></p>.icon-mysql</p></td>
+				<td><div class="icon icon-postgresql"></div><p>.icon-postgresql</p></td>
+				<td><div class="icon icon-network"></div><p>.icon-network</p></td>
+				<td><div class="icon icon-pictures"></div><p>.icon-pictures</p></td>
+			</tr>
+			<tr>
+				<td><div class="icon icon-drink"></div><p>.icon-drink</p></td>
+				<td><div class="icon icon-constitution"></div><p>.icon-constitution</p></td>
+				<td><div class="icon icon-certificate"></div><p>.icon-certificate</p></td>
+			</tr>
 		</table>
 	</div>
 </body>

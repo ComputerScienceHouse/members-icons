@@ -6,7 +6,7 @@
 	max-width: 72px;
 	max-height: 72px;
 }
-.icon-wiki { background-position: 0px 0px }
+.icon-wiki2 { background-position: 0px 0px }
 .icon-profiles { background-position: -100% 0px }
 .icon-events { background-position: -200% 0px }
 .icon-floormap { background-position: -300% 0px }
@@ -16,7 +16,7 @@
 .icon-photohunt { background-position: -200% -100% }
 .icon-yearbook { background-position: -300% -100% }
 .icon-schedule { background-position: -400% -100% }
-.icon-webnews { background-position: 0px -200% }
+.icon-webnews2 { background-position: 0px -200% }
 .icon-webmail { background-position: -100% -200% }
 .icon-lists { background-position: -200% -200% }
 .icon-evals { background-position: -300% -200% }
@@ -34,3 +34,5 @@
 .icon-drink { background-position: 0px -500% }
 .icon-constitution{ background-position: -100% -500% }
 .icon-certificate{ background-position: -200% -500% }
+.icon-wiki { background-position: -300% -500% }
+.icon-webnews { background-position: -400% -500% }

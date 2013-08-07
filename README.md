@@ -57,3 +57,21 @@ Attributions
 [Energy Drink](http://thenounproject.com/noun/energy-drink/#icon-No11928) designed by [Rohan Gupta](http://thenounproject.com/rohangupta1) from The Noun Project
 
 [Scroll](http://thenounproject.com/noun/scroll/#icon-No1629) designed by [Eduardo Souza](http://thenounproject.com/souzaead) from The Noun Project
+
+[Wikipedia "W"](http://en.m.wikipedia.org/wiki/File:Wikipedia-W-bold-in-square.svg) from Wikimedia Commons
+
+[Facebook Icon](http://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg) from Wikimedia Commons
+
+[GitHub Octocat](http://dev.bowdenweb.com/a/fonts/symbols/pictonic/svgs/github-01.svg) from dev.bowdenweb.com
+
+[Twitter Logo](http://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg) from wikipedia.org
+
+[Coderwall Logo](http://icons.iconarchive.com/icons/visualpharm/icons8-metro-style/512/Logos-Coderwall-icon.png) from iconarchive.com
+
+[LinkedIn Logo](http://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg) from Wikimedia Commons
+
+[Record](http://thenounproject.com/noun/record/#icon-No1141) designed by [Max Thorson](http://thenounproject.com/thorsonmscott) from The Noun Project
+
+[Money](http://thenounproject.com/noun/money/#icon-No2524) designed by [Nathan Thomson](http://thenounproject.com/waymanate) from The Noun Project
+
+[Frog](http://thenounproject.com/noun/frog/#icon-No3531)designed by [Christian Bonin](http://thenounproject.com/vanenino) from The Noun Project

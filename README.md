@@ -74,4 +74,6 @@ Attributions
 
 [Money](http://thenounproject.com/noun/money/#icon-No2524) designed by [Nathan Thomson](http://thenounproject.com/waymanate) from The Noun Project
 
-[Frog](http://thenounproject.com/noun/frog/#icon-No3531)designed by [Christian Bonin](http://thenounproject.com/vanenino) from The Noun Project
+[Frog](http://thenounproject.com/noun/frog/#icon-No3531) designed by [Christian Bonin](http://thenounproject.com/vanenino) from The Noun Project
+
+[Hockey](http://thenounproject.com/noun/hockey/#icon-No19015) designed by [Nithin Viswanathan](http://thenounproject.com/nsteve) from The Noun Project

@@ -77,3 +77,5 @@ Attributions
 [Frog](http://thenounproject.com/noun/frog/#icon-No3531) designed by [Christian Bonin](http://thenounproject.com/vanenino) from The Noun Project
 
 [Hockey](http://thenounproject.com/noun/hockey/#icon-No19015) designed by [Nithin Viswanathan](http://thenounproject.com/nsteve) from The Noun Project
+
+[Statistics](http://thenounproject.com/noun/statistics/#icon-No6491) designed by [Mateo Zlatar](http://www.thenounproject.com/mateozlatar) from the Noun Project

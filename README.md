@@ -24,7 +24,7 @@ Usage
 ```
 
 4) Add the following markup (or something similar) to add an icon to the page. Replace "icon-drink" with the class name of the icon you want.
- 
+
 ```html
 <div class="icon-box">
   <div class="icon icon-drink"></div>
@@ -102,3 +102,5 @@ Attributions
 [Hockey](http://thenounproject.com/noun/hockey/#icon-No19015) designed by [Nithin Viswanathan](http://thenounproject.com/nsteve) from The Noun Project
 
 [Statistics](http://thenounproject.com/noun/statistics/#icon-No6491) designed by [Mateo Zlatar](http://www.thenounproject.com/mateozlatar) from the Noun Project
+
+[Reviewer](http://icons8.com/web-app/for/win8/review) designed by [Icons8](http://icons8.com/)

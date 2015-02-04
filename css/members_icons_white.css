@@ -1,4 +1,4 @@
-.icon { 
+.icon {
 	background-image:url('../img/members_icons_white.svg');
 	background-size: 500%;
 	min-width: 24px;
@@ -6,7 +6,7 @@
 	/*max-width: 144px;
 	max-height: 144px;*/
 }
-.icon { background-position: 0px 0px }
+.icon-world { background-position: 0px 0px }
 .icon-profiles { background-position: -100% 0px }
 .icon-events { background-position: -200% 0px }
 .icon-floormap { background-position: -300% 0px }

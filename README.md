@@ -104,3 +104,7 @@ Attributions
 [Statistics](http://thenounproject.com/noun/statistics/#icon-No6491) designed by [Mateo Zlatar](http://www.thenounproject.com/mateozlatar) from the Noun Project
 
 [Reviewer](http://icons8.com/web-app/for/win8/review) designed by [Icons8](http://icons8.com/)
+
+[Music Note](https://thenounproject.com/search/?q=music&i=149715) (modified) designed by [Shmidt Sergey](https://thenounproject.com/monstercritic)
+
+[Shower Head](https://thenounproject.com/term/shower/18264) (modified) designed by [Mayene de La Cruz](https://thenounproject.com/mayene)

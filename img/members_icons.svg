@@ -9,7 +9,7 @@
             <use xlink:href="#path-1"></use>
         </mask>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.54">
         <g id="Artboard">
             <g id="discourse" transform="translate(115.000000, 113.000000)" fill="#000000">
                 <path d="M30.6481928,56.8269714 L15.2339896,60.5551569 L18.4466723,45.0792321 C17.5132301,42.7347047 17,40.177288 17,37.5 C17,26.1781626 26.1781626,17 37.5,17 C48.8218374,17 58,26.1781626 58,37.5 C58,48.8218374 48.8218374,58 37.5,58 C35.0970865,58 32.7907339,57.5865736 30.6481928,56.8269714 Z M0,37.5 C0,16.7893219 16.7847682,0 37.5,0 C58.2106781,0 75,16.7847682 75,37.5 C75,58.2106781 58.2152318,75 37.5,75 L0,75 L0,37.5 Z" id="Combined-Shape"></path>
@@ -254,6 +254,21 @@
                     <ellipse id="Oval" fill="#000000" cx="3.75" cy="63.75" rx="3.75" ry="3.75"></ellipse>
                     <ellipse id="Oval" fill="#000000" cx="18.75" cy="33.75" rx="3.75" ry="3.75"></ellipse>
                     <ellipse id="Oval" fill="#000000" cx="37.5" cy="22.5" rx="3.75" ry="3.75"></ellipse>
+                </g>
+            </g>
+            <g id="bug" transform="translate(114.000000, 611.000000)" fill="#000000">
+                <g id="Layer_1">
+                    <path d="M23.3333333,16.25 C23.3333333,9.59166667 28.3888889,4.5 35,4.5 C41.6111111,4.5 46.6666667,9.59166667 46.6666667,16.25 L23.3333333,16.25 L23.3333333,16.25 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="0" y="43.6666667" width="21.7777778" height="7.83333333"></rect>
+                    <rect id="Rectangle-path" x="48.2222222" y="43.6666667" width="21.7777778" height="7.83333333"></rect>
+                    <rect id="Rectangle-path" transform="translate(43.978861, 7.962138) rotate(-36.505494) translate(-43.978861, -7.962138) " x="36.9788595" y="4.04546995" width="14.0000031" height="7.8333351"></rect>
+                    <rect id="Rectangle-path" transform="translate(26.244361, 7.919054) rotate(216.505494) translate(-26.244361, -7.919054) " x="19.2443595" y="4.00238662" width="14.0000031" height="7.8333351"></rect>
+                    <path d="M50.5555556,20.1666667 L19.4444444,20.1666667 C15.1666667,20.1666667 11.6666667,30.7416667 11.6666667,43.6666667 C11.6666667,64.425 21,69.9083333 31.1111111,73.4333333 L31.1111111,43.6666667 L38.8888889,43.6666667 L38.8888889,73.825 C51.7222222,69.9083333 58.3333333,64.8166667 58.3333333,43.6666667 C58.3333333,30.7416667 54.8333333,20.1666667 50.5555556,20.1666667 L50.5555556,20.1666667 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" transform="translate(56.131833, 31.203833) rotate(-30.000728) translate(-56.131833, -31.203833) " x="43.4932225" y="27.2872528" width="25.2772217" height="7.833161"></rect>
+                    <rect id="Rectangle-path" transform="translate(55.602711, 64.487960) rotate(217.536804) translate(-55.602711, -64.487960) " x="45.685571" y="60.5711068" width="19.8342803" height="7.83370733"></rect>
+                    <rect id="Rectangle-path" x="0" y="43.6666667" width="21.7777778" height="7.83333333"></rect>
+                    <rect id="Rectangle-path" transform="translate(13.541889, 31.363242) rotate(210.000728) translate(-13.541889, -31.363242) " x="0.903278059" y="27.4466612" width="25.2772217" height="7.833161"></rect>
+                    <rect id="Rectangle-path" transform="translate(14.563656, 64.363215) rotate(-37.536804) translate(-14.563656, -64.363215) " x="4.64651543" y="60.4463609" width="19.8342803" height="7.83370733"></rect>
                 </g>
             </g>
         </g>
